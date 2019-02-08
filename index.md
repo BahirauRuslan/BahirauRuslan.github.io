@@ -13,5 +13,5 @@ I like to learn something new and sometimes find non-standard solutions to probl
 
 ### My links
 
-Codewars [Kata](https://www.codewars.com/users/BahirauRuslan/completed)
-Padawans.net [FancyCalc](https://github.com/BahirauRuslan/FancyCalc)
+Codewars [Kata](https://www.codewars.com/users/BahirauRuslan/completed) 
+Padawans.net [FancyCalc](https://github.com/BahirauRuslan/FancyCalc) 
