@@ -16,3 +16,4 @@ I like to learn something new and sometimes find non-standard solutions to probl
   - Codewars [Kata](https://www.codewars.com/users/BahirauRuslan/completed)
   - Padawans.net [FancyCalc](https://github.com/BahirauRuslan/FancyCalc)
   - Padawans.net [PadawansTask1](https://github.com/BahirauRuslan/PadawansTask1)
+  - Padawans.net [PadawansTask2](https://github.com/BahirauRuslan/PadawansTask2)
