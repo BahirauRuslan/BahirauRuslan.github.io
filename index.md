@@ -18,3 +18,6 @@ I like to learn something new and sometimes find non-standard solutions to probl
   - Padawans.net [PadawansTask1](https://github.com/BahirauRuslan/PadawansTask1)
   - Padawans.net [PadawansTask2](https://github.com/BahirauRuslan/PadawansTask2)
   - Padawans.net [PadawansTask3](https://github.com/BahirauRuslan/PadawansTask3)
+  - Padawans.net [PadawansTask4](https://github.com/BahirauRuslan/PadawansTask4)
+  - Padawans.net [PadawansTask5](https://github.com/BahirauRuslan/PadawansTask5)
+  - Padawans.net [PadawansTask13](https://github.com/BahirauRuslan/PadawansTask13)
