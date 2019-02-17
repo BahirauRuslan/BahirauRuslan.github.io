@@ -24,5 +24,6 @@ I like to learn something new and sometimes find non-standard solutions to probl
   - Padawans.net [PadawansTask7](https://github.com/BahirauRuslan/PadawansTask7)
   - Padawans.net [PadawansTask9](https://github.com/BahirauRuslan/PadawansTask9)
   - Padawans.net [PadawansTask10](https://github.com/BahirauRuslan/PadawansTask10)
+  - Padawans.net [PadawansTask11](https://github.com/BahirauRuslan/PadawansTask11)
   - Padawans.net [PadawansTask12](https://github.com/BahirauRuslan/PadawansTask12)
   - Padawans.net [PadawansTask13](https://github.com/BahirauRuslan/PadawansTask13)
