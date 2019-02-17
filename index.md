@@ -7,7 +7,7 @@ I like to learn something new and sometimes find non-standard solutions to probl
 
 ### Interests
 
-  - **Development and programming**.
+  - **Programming**.
   - **Astronomy**.
   - **Math**.
 
@@ -21,4 +21,5 @@ I like to learn something new and sometimes find non-standard solutions to probl
   - Padawans.net [PadawansTask4](https://github.com/BahirauRuslan/PadawansTask4)
   - Padawans.net [PadawansTask5](https://github.com/BahirauRuslan/PadawansTask5)
   - Padawans.net [PadawansTask6](https://github.com/BahirauRuslan/PadawansTask6)
+  - Padawans.net [PadawansTask7](https://github.com/BahirauRuslan/PadawansTask7)
   - Padawans.net [PadawansTask13](https://github.com/BahirauRuslan/PadawansTask13)
