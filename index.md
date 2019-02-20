@@ -13,7 +13,8 @@ I like to learn something new and sometimes find non-standard solutions to probl
 
 ### My links
 
-  - Codewars [Kata](https://www.codewars.com/users/BahirauRuslan/completed)
+  - Codewars [Link](https://www.codewars.com/users/BahirauRuslan)
+  - Codewars [8thTaskC#](https://github.com/BahirauRuslan/CodewarsConvertAHexStringToRGB)
   - Padawans.net [FancyCalc](https://github.com/BahirauRuslan/FancyCalc)
   - Padawans.net [PadawansTask1](https://github.com/BahirauRuslan/PadawansTask1)
   - Padawans.net [PadawansTask2](https://github.com/BahirauRuslan/PadawansTask2)
