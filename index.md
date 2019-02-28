@@ -32,3 +32,4 @@ I like to learn something new and sometimes find non-standard solutions to probl
   - Padawans.net [PadawansTask13](https://github.com/BahirauRuslan/PadawansTask13)
   - Padawans.net [PadawansTask15](https://github.com/BahirauRuslan/PadawansTask15)
   - Tic-tac-toe [GitHub](https://github.com/BahirauRuslan/TicTacToe)
+  - The first 20 numbers in the sequence [GitHub](https://github.com/BahirauRuslan/FibonacciNumbers)
