@@ -13,6 +13,7 @@ I like to learn something new and sometimes find non-standard solutions to probl
 
 ### My links
 
+  - Stage #2 offline training [tasks](https://github.com/BahirauRuslan/NET.S.2019.Bahirau)
   - Codewars [Link](https://www.codewars.com/users/BahirauRuslan)
   - Codewars [8thTaskC#](https://github.com/BahirauRuslan/CodewarsConvertAHexStringToRGB)
   - Codewars [ManipulatingURLTaskC#](https://github.com/BahirauRuslan/CodewarsManipulateURLParameters)
