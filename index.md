@@ -3,7 +3,7 @@
 ### About me
 
 I'm study at the BNTU in my third year in ITR faculty. I have quite a good academic performance and I like my specialty. During my studies, I used programming languages such as C#, Java, Python, Delphi, PHP, C++.
-I like to learn something new and sometimes find non-standard solutions to problems.
+I like to learn something new and sometimes find non-standard solutions to problems
 
 ### Interests
 
